@@ -1,0 +1,24 @@
+{
+  "name": "nlw6",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na Next Level Week 6, trilha Discovery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfanovaes/rocketq.git"
+  },
+  "keywords": [],
+  "author": "Patricia Novaes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfanovaes/rocketq/issues"
+  },
+  "homepage": "https://github.com/pfanovaes/rocketq#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
